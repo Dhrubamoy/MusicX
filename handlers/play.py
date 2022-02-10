@@ -163,7 +163,7 @@ async def play(_, message: Message):
                 [
                     InlineKeyboardButton(
                             text=" 𝐂𝐡𝐚𝐧𝐧𝐞𝐥📡",
-                            url=f"https://t.me/Legend_K_Userbot")
+                            url=f"https://t.me/Official_K_LegendBot")
                ],
                [
                     InlineKeyboardButton(
@@ -172,7 +172,7 @@ async def play(_, message: Message):
                             
                     InlineKeyboardButton(
                             text="� Wr are tough 🥀",
-                            url=f"https://t.me/Legend_K_Userbot")
+                            url=f"https://t.me/LB_OffTopic")
                ],
                [
                         InlineKeyboardButton(
@@ -216,7 +216,7 @@ async def play(_, message: Message):
                 [
                     InlineKeyboardButton(
                             text="Channel",
-                            url=f"https://t.me/Legend_K_Userbot")
+                            url=f"https://t.me/Official_K_LegendBot")
                ],
                [
                     InlineKeyboardButton(
@@ -225,7 +225,7 @@ async def play(_, message: Message):
                             
                     InlineKeyboardButton(
                             text="We are tough🥀",
-                            url=f"https://t.me/Legend_K_Userbot")
+                            url=f"https://t.me/LB_OffTopic")
                ],
                [
                         InlineKeyboardButton(
@@ -246,7 +246,7 @@ async def play(_, message: Message):
                 [
                     InlineKeyboardButton(
                             text="𝐂𝐡𝐚𝐧𝐧𝐞𝐥📡",
-                            url=f"https://t.me/Legend_K_Userbot")
+                            url=f"https://t.me/Official_K_LegendBot")
                ],
                [
                     InlineKeyboardButton(
@@ -314,7 +314,7 @@ async def play(_, message: Message):
                 [
                     InlineKeyboardButton(
                             text="𝐂𝐡𝐚𝐧𝐧𝐞𝐥📡",
-                            url=f"https://t.me/Legend_K_Userbot")
+                            url=f"https://t.me/Official_K_LegendBot")
                ],
                [
                     InlineKeyboardButton(
